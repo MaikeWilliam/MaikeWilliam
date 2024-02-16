@@ -1,7 +1,7 @@
 ## Olá!, Eu sou o Maike
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando HTML, CSS, JavaScript e React
+- 🔭 Procurando estágio.
+- 🌱 Estudando HTML, CSS, JavaScript, Python e MySQL. 
 - 📫 Contate-me no email: maikewilliamb@gmail.com
 - 😄 Pronouns: ele/dele
 
