@@ -1,14 +1,10 @@
-## Olá!, Eu sou o Maike
-
-- 🔭 Procurando estágio.
-- 🌱 Estudando HTML, CSS, JavaScript, Python e MySQL. 
-- 📫 Contate-me no email: maikewilliamb@gmail.com
+## Olá!, Eu sou o Maike William 
 - 😄 Pronouns: ele/dele
 
-<div>
-  <a href="https://github.com/MaikeWilliam">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaikeWilliam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+- 🔭 Procurando estágio na área de dados.
+- 🌱 Já tive experiências trabalhando com desenvolvimento web em uma empresa da minha faculdade na qual desenvolviamos sites para empresas locais e lá utilizavamos principalmente tecnologias como HTML, CSS, JavaScript e ReactJS. Entretando, hoje em dia estou mudando de norte na minha carreira e estou focando mais na área de dados, principalmente em Data Sciense e Data Engnieer e por isso estou a procura de uma oportunidade estágio na área.
+- 📫 Contate-me no email: maikewilliamb@gmail.com
+- Disponibilizo aqui alguns projetos que fiz na época de Front-end e os projetos na área de dados que estou desenvolvendo agora.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Maike-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
